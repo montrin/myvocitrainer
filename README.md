@@ -11,9 +11,9 @@
 
 ### 2. Choose your cli alias (optional)
 
-	'alias learn='python vocitrainer'
+	'alias learn='python vocitrainer.py'
 ##Go learner
-	by entering 'learn' OR 'python vocitrainer' on the cli 
+	by entering 'learn' OR 'python vocitrainer.py' on the cli 
 
 ###Good learn!
 
