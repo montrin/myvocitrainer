@@ -2,7 +2,7 @@
 
 
 ##Get ready with
-### 1. change the voci.txt file for your needs
+### 1. change the voci.txt file to your needs
 
 	line structure: '{Word}#{Sentence with word or its definition}'
 	
